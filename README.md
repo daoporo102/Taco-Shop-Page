@@ -1,6 +1,8 @@
 # Taco-Shop-Page
 Taco Shop Page using HTML
 index.html
-![alt text](image.png)
+![home page](img/home_page.png)
 hours.html
-![alt text](image-1.png)
+![hours page](img/hours_page.png)
+contact.html
+![contact_us page](img/contact_us_page.png)
